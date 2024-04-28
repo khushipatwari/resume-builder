@@ -91,6 +91,10 @@ section
     background-size: cover;
     background-position: center;
 }
+/* .home-img img
+{
+    width:100px;
+} */
  span
 {
     color: var(--main-color);
