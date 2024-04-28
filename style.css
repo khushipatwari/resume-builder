@@ -87,7 +87,7 @@ section
     justify-content: center;
     align-items: center;
     background: none;
-    background-image: url(images/homepageimage.jpg);
+    background-image: url(https://github.com/khushipatwari/resume-builder/blob/main/homepageimage.JPG);
     background-size: cover;
     background-position: center;
 }
@@ -100,10 +100,6 @@ section
 {
     text-align: center;
     font-size: 4.5rem;
-}
-.home-img img
-{
-    width: 35vw;
 }
 .home-content h3
 {
