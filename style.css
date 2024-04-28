@@ -87,7 +87,7 @@ section
     justify-content: center;
     align-items: center;
     background: none;
-    background-image: url(https://github.com/khushipatwari/resume-builder/blob/main/homepageimage.JPG);
+    background-image: url(homepageimage.JPG);
     background-size: cover;
     background-position: center;
 }
