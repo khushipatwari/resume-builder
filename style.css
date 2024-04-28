@@ -90,6 +90,7 @@ section
     background-image: url(homepageimage.JPG);
     background-size: cover;
     background-position: center;
+    background: var(--second-bg-color)
 }
 /* .home-img img
 {
